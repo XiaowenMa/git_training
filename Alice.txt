@@ -6,4 +6,4 @@ Changed remotely.
 Stash.
 More Alice
 Rewriting history alice
-Interactive Rebase
+Interactive 
