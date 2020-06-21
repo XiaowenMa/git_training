@@ -5,5 +5,3 @@ Something more.
 Changed remotely.
 Stash.
 More Alice
-Rewriting history alice
-Interactive 
